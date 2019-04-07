@@ -1,0 +1,29 @@
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Groups.csprojResolveAssemblyReference.cache
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Groups.Form1.resources
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Groups.Properties.Resources.resources
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Groups.csproj.GenerateResource.Cache
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.manifest
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.application
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe.manifest
+C:\Users\Mishko\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.application
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.manifest
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.application
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\obj\Debug\Groups.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\obj\Debug\Groups.Form1.resources
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\obj\Debug\Groups.Properties.Resources.resources
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\obj\Debug\Groups.csproj.GenerateResource.Cache
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe.manifest
+C:\Users\Micah Richards\Dropbox\Programing\C#\Groups\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.application
+C:\Users\Micah Richards\Dropbox\Programming\C#\Groups\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Micah Richards\Dropbox\Programming\C#\Groups\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Micah Richards\Dropbox\Programming\C#\Groups\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
